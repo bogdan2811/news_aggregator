@@ -1,0 +1,13 @@
+# Compiled classes
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Generated output files (written to the project root at runtime)
+/*.txt
+
+# macOS
+.DS_Store
