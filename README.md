@@ -140,3 +140,6 @@ The program uses plain Java threads (`Thread.start()` / `join()`). Each thread r
 | `Result.java` | An output file built and sorted in memory, before it is written to disk |
 | `Helpers.java` | File name normalization and keyword extraction |
 | `Makefile` | Build, run and clean targets |
+
+## Note
+This README was generated/created by translating README.pdf using Claude Code.
